@@ -65,3 +65,5 @@ Phases are actually mapped to underlying goals. The specific goals executed per 
 [Maven archotypes ](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)
 
 [Maven repositories ](https://maven.apache.org/guides/introduction/introduction-to-repositories.html)
+
+[Maven tutorials ](https://cguntur.me/2020/05/20/understanding-apache-maven-the-series/)
