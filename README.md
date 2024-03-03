@@ -1,6 +1,6 @@
 # Creating a Project
 
-image:RepoLogo.png[align="center"]
+image:Structure.png[align="center"]
 
 Under this directory you will notice the following standard project structure.
 
