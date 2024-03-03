@@ -67,3 +67,5 @@ Phases are actually mapped to underlying goals. The specific goals executed per 
 [Maven repositories ](https://maven.apache.org/guides/introduction/introduction-to-repositories.html)
 
 [Maven tutorials ](https://cguntur.me/2020/05/20/understanding-apache-maven-the-series/)
+
+[Maven JetBrains info ](https://www.jetbrains.com/help/idea/maven-support.html)
