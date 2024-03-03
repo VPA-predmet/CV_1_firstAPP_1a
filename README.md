@@ -1,6 +1,6 @@
 # Creating a Project
 
-image:Structure.png[align="center"]
+image:Structure[align="center"]
 
 Under this directory you will notice the following standard project structure.
 
